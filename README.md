@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Kratos-GPT** is an innovative project that integrates AI to create a Personal Mentor based on the powerful video game character, Kratos, from *God of War*. This application combines advanced text-to-speech technology with conversational AI to offer users guidance in Kratos' iconic voice.
+**Kratos-GPT** is an innovative project that integrates AI to create a Personal Mentor based on the powerful video game character, Kratos, from *God of War*. This application combines advanced text-to-speech technology with conversational AI to offer users guidance in Kratos' iconic voice. View a demo of the project [here](kratosgpt.mp4)
 
 ## Features
 
