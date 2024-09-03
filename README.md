@@ -34,24 +34,25 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/damian-pillay/kratos.git
+   ```
 
 2. Navigate to the project directory:
 
-    bash
-    Copy code
+    ```bash
     cd kratos
+    ```
 
 3. Install the required Python packages:
 
-    bash
-    Copy code
+    ```bash
     pip install -r requirements.txt
+    ```
 
 4. Run the Streamlit app:
 
-    bash
-    Copy code
+    ```bash
     streamlit run app.py
+    ```
 
 ### Configuration
 make a .env file and make variables for the following:
